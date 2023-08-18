@@ -2,6 +2,8 @@
 + 그림판 Javascript 연습 코딩
   <details>
     <summary>결과미리보기</summary>
+    
+    ![MEME_MAKER](https://github.com/wkjproject/MEME-MAKER/assets/139529566/7245fb2f-e7be-4b52-b638-b0719166e30d)
   </details>
 # 개발기간
 + 2023.8.18
