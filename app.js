@@ -80,7 +80,7 @@ function onDestroyClick(){
 function onEraserClick(){
   ctx.strokeStyle = "white";
   isFilling = false;
-  modeBtn.innerText = "Fill";
+  modeBtn.innerHTML = "<strong>🖌️Draw</strong> or 🧺Fill";
 }
 
 
